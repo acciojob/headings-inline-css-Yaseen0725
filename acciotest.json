@@ -1,0 +1,4 @@
+{
+    "testRepo": "headings-inline-css-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
